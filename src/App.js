@@ -3,7 +3,6 @@ import { ChatEngine } from 'react-chat-engine';
 import ChatFeed from './components/ChatFeed';
 import LoginForm from './components/LoginForm';
 import './App.css';
-import { Analytics } from "@vercel/analytics/react"
 const projectID = '0bebd674-f110-485a-84e8-602290973df7';
 
 const App = () => {
